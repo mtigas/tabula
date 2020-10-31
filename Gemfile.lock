@@ -18,7 +18,8 @@ GEM
       sass (>= 3.2, < 3.5)
     cuba (3.5.0)
       rack (~> 1.6.0)
-    ffi (1.9.10-java)
+    ffi (1.13.1)
+    ffi (1.13.1-java)
     jruby-jars (1.7.24)
     jruby-rack (1.1.20)
     multi_json (1.11.2)
@@ -38,6 +39,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   bootstrap-sass (~> 3.2.0)
