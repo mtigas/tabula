@@ -22,7 +22,7 @@ GEM
     jruby-jars (1.7.24)
     jruby-rack (1.1.20)
     multi_json (1.11.2)
-    rack (1.6.4)
+    rack (1.6.13)
     rake (10.5.0)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
@@ -38,6 +38,7 @@ GEM
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   bootstrap-sass (~> 3.2.0)
